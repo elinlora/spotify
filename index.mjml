@@ -1,17 +1,17 @@
 <mjml>
   <mj-head>
     
-    <mj-title></mj-title>
+    <mj-title>Spotify</mj-title>
 
-    <mj-preview></mj-preview>
+    <mj-preview>Celebrate International Podcast Day</mj-preview>
 
-    <mj-font name="" href="" />
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" />
 
     <mj-attributes>
 
-      <mj-class name="" />
+      <mj-class name="bg-beige" background-color="#f8f8f8" />
     
-      <mj-text padding="0" font-family="" />
+      <mj-text padding="0" font-family="Roboto" />
       <mj-wrapper padding="0" />
       <mj-section padding="0" />
       <mj-column padding="0" />
@@ -47,7 +47,24 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body>
-
+  <mj-body background-color="#fff">
+    <!-- ======> Header <====== -->
+    <mj-include path="components/header.mjml" />
+    
+    <!-- Hero -->
+    <mj-section mj-class="bg-beige">
+      <mj-column>
+        <mj-text align="center" font-size="25px" font-weight="700">
+          Celebrate International Podcast Day
+        </mj-text>
+        <mj-text align="center" font-size="14px" line-height="20px" padding="20px 20px 0">
+          Today is International Podcast Day! Find a show for every moment with our top picks. Click on the covers below to listen, follow and save.
+        </mj-text>
+        <mj-button href="#" border-radius="30px" background-color="#1ed760" font-size="14px" text-transform="uppercase" font-weight="700" inner-padding="15px" width="210px" padding-top="25px">
+          episodes for you
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- / Hero -->
   </mj-body>
 </mjml>

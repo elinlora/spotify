@@ -1,0 +1,5 @@
+<mj-section mj-class="bg-beige" padding="20px 0">
+  <mj-column>
+    <mj-image href="#" align="center" src="img/header-logo.png" alt="Spotify" width="120px" />
+  </mj-column>
+</mj-section>
