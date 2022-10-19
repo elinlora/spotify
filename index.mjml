@@ -204,5 +204,15 @@
       </mj-group>
     </mj-section>
     <!-- / Podcast Section -->
+
+    <!-- Check Out More -->
+    <mj-section mj-class="bg-beige">
+      <mj-column>
+        <mj-button href="#" border-radius="30px" background-color="#1ed760" font-size="14px" text-transform="uppercase" font-weight="700" inner-padding="15px" width="210px" padding-top="30px">
+          check out more
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- /Check Out More -->
   </mj-body>
 </mjml>
