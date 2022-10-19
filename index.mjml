@@ -66,5 +66,74 @@
       </mj-column>
     </mj-section>
     <!-- / Hero -->
+
+    <!-- Podcast Section -->
+    <mj-section mj-class="bg-beige" padding-top="30px">
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-weight="600">
+          For when you need a laugh
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bg-beige" padding-top="24px">
+      <mj-group>
+        <mj-column>
+          <mj-image href="#" src="img/office-ladies.jpg" alt="Office Ladies" width="180px"/>
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/date-me.jpg" alt="Office Ladies" width="180px" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/keep-it.jpg" alt="Office Ladies" width="180px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / Podcast Section -->
+
+    <!-- Podcast Section -->
+    <mj-section mj-class="bg-beige" padding-top="30px">
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-weight="600">
+          For casual science lovers
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bg-beige" padding-top="24px">
+      <mj-group>
+        <mj-column>
+          <mj-image href="#" src="img/science-vs.jpg" alt="Science VS" width="180px"/>
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/ologies.jpg" alt="Ologies" width="180px" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/life-kit.jpg" alt="Life Kit" width="180px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / Podcast Section -->
+
+    <!-- Podcast Section -->
+    <mj-section mj-class="bg-beige" padding-top="30px">
+      <mj-column>
+        <mj-text align="center" font-size="18px" font-weight="600">
+          Black History Is Now
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bg-beige" padding-top="24px">
+      <mj-group>
+        <mj-column>
+          <mj-image href="#" src="img/truth-be-told.jpg" alt="Truth Be Told" width="180px"/>
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/black-frasier.jpg" alt="Black Frasier" width="180px" />
+        </mj-column>
+        <mj-column>
+          <mj-image href="#" src="img/michelle-obama.jpg" alt="Michelle Obama" width="180px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- / Podcast Section -->
   </mj-body>
 </mjml>
