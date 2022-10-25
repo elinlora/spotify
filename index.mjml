@@ -42,7 +42,7 @@
       }
     </mj-style>
   </mj-head>
-  <mj-body background-color="#fff">
+  <mj-body background-color="#899499">
     <!-- ======> Header <====== -->
     <mj-include path="components/header.mjml" />
     
